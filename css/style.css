@@ -648,12 +648,6 @@ i {
     }
 }
 
-@media (min-width:992px) and (max-width:1200px) {
-    .subheader .subheader_official {
-        font-size: 11px;
-    }
-}
-
 @media (max-width: 1200px){
     .box_img {
         width: 300px;
